@@ -1,6 +1,6 @@
 {
   "name": "koa2-history-api-callback",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "base on connect-history-api-callback",
   "main": "index.js",
   "scripts": {
