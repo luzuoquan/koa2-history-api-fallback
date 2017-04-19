@@ -2,7 +2,7 @@
   "name": "koa2-history-api-callback",
   "version": "0.0.2",
   "description": "base on connect-history-api-callback",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
