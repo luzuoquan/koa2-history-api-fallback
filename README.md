@@ -1,4 +1,4 @@
-koa2-history-api-callback
+koa2-history-api-fallback
 =========================
 base 'connect-history-api-fallback' for SPA
 
@@ -8,20 +8,21 @@ Koa v2.x don't use `yield*`, so'koa-connect-history-api-fallback' can't adapter 
 Adapter for 'connect-history-api-fallback' for use with Koa ^2.0.0.
 
 ### Solution
-1.use **'koa2-history-api-callback'**
-2.use **'koa-convert'** convert old middleware ...
+
+1. use **'koa2-history-api-callback'**      
+2. use **'koa-convert'** convert old middleware ...
 
 ### Installation
 
 ```
-$ npm install --save 'koa2-history-api-callback'
+$ npm install --save 'koa2-history-api-fallback'
 ```
 
 ### Example
 ```
 const Koa = require('koa')
 
-const historyFallback = require('koa2-history-api-callback')
+const historyFallback = require('koa2-history-api-fallback')
 
 app.use(historyFallback())
 

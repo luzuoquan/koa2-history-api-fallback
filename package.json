@@ -1,26 +1,26 @@
 {
-  "name": "koa2-history-api-callback",
+  "name": "koa2-history-api-fallback",
   "version": "0.0.2",
-  "description": "base on connect-history-api-callback",
+  "description": "base on connect-history-api-fallback",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luzuoquan/koa2-history-api-callback.git"
+    "url": "git+https://github.com/luzuoquan/koa2-history-api-fallback.git"
   },
   "keywords": [
-    "connect-history-api-callback",
+    "connect-history-api-fallback",
     "for",
     "koa2"
   ],
   "author": "luzuoquan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/luzuoquan/koa2-history-api-callback/issues"
+    "url": "https://github.com/luzuoquan/koa2-history-api-fallback/issues"
   },
-  "homepage": "https://github.com/luzuoquan/koa2-history-api-callback#readme",
+  "homepage": "https://github.com/luzuoquan/koa2-history-api-fallback#readme",
   "dependencies": {
     "url": "^0.11.0"
   }
