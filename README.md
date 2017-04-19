@@ -3,7 +3,7 @@ koa2-history-api-fallback
 base 'connect-history-api-fallback' for SPA
 
 ### Reason
-Koa v2.x don't use `yield*`, so'koa-connect-history-api-fallback' can't adapter for Koa v2.x .   
+Koa v2.x don't use `yield*`, so 'koa-connect-history-api-fallback' can't adapter for Koa v2.x .   
 
 Adapter for 'connect-history-api-fallback' for use with Koa ^2.0.0.
 
