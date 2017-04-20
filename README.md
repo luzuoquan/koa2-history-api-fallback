@@ -9,7 +9,7 @@ Adapter for 'connect-history-api-fallback' for use with Koa ^2.0.0.
 
 ### Solution
 
-1. use **'koa2-history-api-callback'**      
+1. use **'koa2-history-api-fallback'**      
 2. use **'koa-convert'** convert old middleware ...
 
 ### Installation
